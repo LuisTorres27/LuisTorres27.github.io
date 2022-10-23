@@ -60,10 +60,6 @@ h2 {
   transition: all ease-in-out 0.5s;
 }
 
-.tool-icon:hover{
-  transform: scale(130%);
-  
-}
 .row-end {
   margin: 0px;
   padding: 10px;
@@ -118,10 +114,6 @@ h2 {
 
   .animated-icon {
     width: 55px;
-  }
-
-  .tool-icon:hover{
-    transform: none;
   }
 
   .tool-icon {
